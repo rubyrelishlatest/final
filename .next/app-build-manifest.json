@@ -1,0 +1,60 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-1392a5c69125e5c3.js",
+      "static/chunks/fd9d1056-10dfaec9b4318f4c.js",
+      "static/chunks/117-49c612293445e471.js",
+      "static/chunks/main-app-16a271187e578013.js",
+      "static/chunks/app/_not-found/page-fe9fc664026166c6.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-1392a5c69125e5c3.js",
+      "static/chunks/fd9d1056-10dfaec9b4318f4c.js",
+      "static/chunks/117-49c612293445e471.js",
+      "static/chunks/main-app-16a271187e578013.js",
+      "static/css/9bc88cc9d9c7a277.css",
+      "static/chunks/app/layout-cf4a8ed7a5364877.js"
+    ],
+    "/Hotel/page": [
+      "static/chunks/webpack-1392a5c69125e5c3.js",
+      "static/chunks/fd9d1056-10dfaec9b4318f4c.js",
+      "static/chunks/117-49c612293445e471.js",
+      "static/chunks/main-app-16a271187e578013.js",
+      "static/chunks/609-3c27e5821f2c266d.js",
+      "static/chunks/app/Hotel/page-ba7c5c6292bb4b1d.js"
+    ],
+    "/Contact/page": [
+      "static/chunks/webpack-1392a5c69125e5c3.js",
+      "static/chunks/fd9d1056-10dfaec9b4318f4c.js",
+      "static/chunks/117-49c612293445e471.js",
+      "static/chunks/main-app-16a271187e578013.js",
+      "static/chunks/609-3c27e5821f2c266d.js",
+      "static/chunks/app/Contact/page-5a2f7b170e65dfd5.js"
+    ],
+    "/portfolio/page": [
+      "static/chunks/webpack-1392a5c69125e5c3.js",
+      "static/chunks/fd9d1056-10dfaec9b4318f4c.js",
+      "static/chunks/117-49c612293445e471.js",
+      "static/chunks/main-app-16a271187e578013.js",
+      "static/chunks/609-3c27e5821f2c266d.js",
+      "static/chunks/app/portfolio/page-6bb2c97c86979735.js"
+    ],
+    "/Aboutus/page": [
+      "static/chunks/webpack-1392a5c69125e5c3.js",
+      "static/chunks/fd9d1056-10dfaec9b4318f4c.js",
+      "static/chunks/117-49c612293445e471.js",
+      "static/chunks/main-app-16a271187e578013.js",
+      "static/chunks/609-3c27e5821f2c266d.js",
+      "static/chunks/app/Aboutus/page-d5fe304c62777c3c.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-1392a5c69125e5c3.js",
+      "static/chunks/fd9d1056-10dfaec9b4318f4c.js",
+      "static/chunks/117-49c612293445e471.js",
+      "static/chunks/main-app-16a271187e578013.js",
+      "static/css/5a56e3c1761e58ad.css",
+      "static/chunks/609-3c27e5821f2c266d.js",
+      "static/chunks/app/page-c412292dd4403055.js"
+    ]
+  }
+}
