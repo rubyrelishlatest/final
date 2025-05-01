@@ -20,3 +20,6 @@ yarn-error.log*
 
 # local VSCode settings (optional)
 .vscode/
+
+# Next.js build directory
+.next/
